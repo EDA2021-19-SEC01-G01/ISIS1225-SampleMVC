@@ -60,7 +60,6 @@ def loadTags():
     """
     return controller.loadTags('GoodReads/tags.csv')
 
-
 """
 Menu principal
 """
